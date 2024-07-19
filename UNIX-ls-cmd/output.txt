@@ -1,0 +1,41 @@
+.: 
+  45962 	-rwxr-xr-x   1        linh      linh     21944  Apr 07 2024 18:44  UnixLs
+ 112460 	-rw-r--r--   1        linh      linh         0  Apr 07 2024 18:45  output.txt
+  26489 	-rw-r--r--   1        linh      linh      1202  Apr 05 2024 12:18  test.c
+ 140158 	-rwxr-xr-x   1        linh      linh     16184  Apr 02 2024 10:59  infodemo
+ 140063 	-rw-r--r--   1        linh      linh       210  Apr 07 2024 12:47  makefile
+ 140023 	-rw-r--r--   1        linh      linh      5023  Apr 07 2024 18:43  UnixLs.c
+  20351 	-rw-r--r--   1        linh      linh     17728  Apr 02 2024 18:13  Assignment 4.docx
+ 139813 	-rw-r--r--   1        linh      linh        18  Apr 02 2024 09:36  README.md
+ 140061 	-rw-r--r--   1        linh      linh       870  Apr 02 2024 10:59  infodemo.c
+..: 
+   6155 	drwxr-xr-x   7        linh      linh      4096  Feb 27 2024 17:02  s-talk
+   8087 	drwxr-xr-x   3        linh      linh      4096  Jan 30 2024 15:00  hw1_300_1
+  36092 	-rw-r--r--   1        linh      linh     13201  Jan 21 2024 14:14  list.c
+   1218 	drwxr-xr-x   3        linh      linh      4096  Apr 07 2024 18:42  UNIX2
+ 144951 	drwxr-xr-x   5        linh      linh      4096  Mar 25 2024 11:13  OS_stimulator
+ 139218 	drwxr-xr-x   4        linh      linh      4096  Feb 15 2024 16:11  tcp-client-server-in-C
+  95339 	drwxr-xr-x   4        linh      linh      4096  Apr 07 2024 18:44  UNIX_ls_command
+ 120881 	drwxr-xr-x   4        linh      linh      4096  Feb 09 2024 11:14  udp
+  17055 	-rw-r--r--   1        linh      linh         9  Jan 26 2024 10:45  README.md
+  36089 	drwxr-xr-x   3        linh      linh      4096  Jan 29 2024 21:44  hw1_300
+  45958 	drwxr-xr-x   3        linh      linh      4096  Feb 09 2024 13:11  test_as2
+/home/linh: 
+   6660 	drwxr-xr-x  12        linh      linh      4096  Nov 26 2023 09:01  assignment-5-lnn3333
+  66622 	drwxr-xr-x   6        linh      linh      4096  Dec 02 2023 21:02  assignment-6-lnn3333
+   8068 	drwxr-xr-x  12        linh      linh      4096  Apr 07 2024 14:35  cmpt300
+  74142 	-rw-r--r--   1        linh      linh        24  Jan 20 2024 14:23  makeFile
+  31891 	drwxr-xr-x   2        linh      linh      4096  Aug 15 2023 13:03  python_application
+  36090 	-rw-r--r--   1        linh      linh      1247  Jan 21 2024 14:10  main_hw1.c
+   6667 	drwxr-xr-x   8        linh      linh      4096  Nov 30 2023 20:36  CMPT276-Sports-Connect
+  57261 	drwxr-xr-x   5        linh      linh      4096  Dec 03 2023 21:24  flask-hello-world
+  55380 	drwxr-xr-x  12        linh      linh      4096  Nov 14 2023 14:34  github-classroom
+  92881 	drwxr-xr-x  12        linh      linh      4096  Dec 03 2023 21:35  CMPT276-Sports-Connect-1
+  29565 	drwxr-xr-x   3        linh      linh      4096  May 23 2023 12:15  projects
+  31384 	drwxr-xr-x   8        linh      linh      4096  May 23 2023 12:12  CMPT225
+  33700 	drwxr-xr-x   6        linh      linh      4096  Nov 20 2023 15:59  vscode-cpptools
+  31374 	-rw-r--r--   1        linh      linh         0  May 23 2023 11:45  testr
+  24618 	-rw-r--r--   1        linh      linh       140  Jan 19 2024 12:05  list.h:Zone.Identifier
+   7988 	-rw-r--r--   1        linh      linh        18  Apr 02 2024 09:31  README.md
+    601 	-rw-r--r--   1        linh      linh      1796  Oct 11 2023 21:56  github-classroom - Shortcut.lnk
+  34381 	drwxr-xr-x   3        linh      linh      4096  Sep 12 2023 21:20  CMPT 295
